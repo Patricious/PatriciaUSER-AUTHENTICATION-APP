@@ -1,0 +1,16 @@
+
+
+
+. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+8. Create a database with name eb_lms
+
+6. Import eb_lms.sql file
+
+7.Run the script http://localhost/School_Library_System
+
+**LOGIN DETAILS** 
+
+Admin
+user: admin
+pass: 1234
